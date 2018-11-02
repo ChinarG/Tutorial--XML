@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--这是一行注释，上边首行是一个固定格式-->
+<!--version:版本，encoding:编码格式-->
+<Root>
+  <People ID="1">
+    <Name>我的小鱼你醒了</Name>
+    <Age>11</Age>
+  </People>
+  <People ID="2">
+    <Name>还记得早晨吗</Name>
+    <Age>22</Age>
+  </People>
+  <People ID="3">
+    <Name>昨夜你曾经说</Name>
+    <Age>33</Age>
+  </People>
+  <People ID="4">
+    <Name>愿夜幕永不开启</Name>
+    <Age>44</Age>
+  </People>
+</Root>

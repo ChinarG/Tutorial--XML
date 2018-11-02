@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/03\u2192CreateXml-\u52A8\u6001\u521B\u5EFAXml.unity"
+  isLoaded: 1
+  isActive: 1
