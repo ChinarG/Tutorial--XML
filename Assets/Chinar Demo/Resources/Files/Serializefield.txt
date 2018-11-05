@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Level="88">
+  <Id>这是ID-123456</Id>
+  <Money>666</Money>
+  <Items>
+    <item Name="人类1" />
+    <item Name="人类2" />
+  </Items>
+  <PersonList>
+    <Person Name="人类1" />
+    <Person Name="人类2" />
+  </PersonList>
+  <Box BoxX="1" BoxY="2" BoxZ="3" />
+  <Sphere SphereX="4" SphereY="5" SphereZ="6" />
+  <Tube TubeX="7" TubeY="8" TubeZ="9" />
+  <Second>60</Second>
+</root>
