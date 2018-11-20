@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Block xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>0</Version>
+  <ID>386</ID>
+  <LegoID>4447</LegoID>
+  <LdrawID>4447</LdrawID>
+  <MeshPosition>
+    <x>1.2</x>
+    <y>2.88</y>
+    <z>-2.4</z>
+  </MeshPosition>
+  <MeshRotation>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </MeshRotation>
+  <MeshScale>
+    <x>1</x>
+    <y>-1</y>
+    <z>1</z>
+  </MeshScale>
+  <ParentPosition>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </ParentPosition>
+  <ParentRotation>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </ParentRotation>
+  <ParentScale>
+    <x>1</x>
+    <y>1</y>
+    <z>1</z>
+  </ParentScale>
+</Block>

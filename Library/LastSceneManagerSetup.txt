@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Chinar Demo/Scenes/04\u2192XML\u521B\u5EFA\u65F6\u7684\u7279\u6027\u89C4\u5219\u6D4B\u8BD5.unity"
+- path: Assets/Chinar Demo/Scenes/06-LegoXML.unity
   isLoaded: 1
   isActive: 1

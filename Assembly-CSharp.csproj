@@ -62,27 +62,97 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Chinar Demo\Scripts\04-Peculiarity\ChinarXMLPeculiarity.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\Block.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\Edge.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\EdgeExtractor.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\FieldValue.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\FileManager.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\Global.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitive.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveAnnotation.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveBounding.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveBoundingAABB.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveCollision.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveCollisionBox.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveCollisionSphere.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveCollisionTube.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivity.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityAxel.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityBall.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityCustom2DField.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityFixed.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityGear.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityHinge.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivityRail.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveConnectivitySlider.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveGeometryBounding.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitiveGeometryBoundingAABB.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitivePath.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\LEGOXML\LEGOPrimitivePhysicsAttributes.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\TextureManager.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ACE\Triangle.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\BlockManager.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\06-LegoXML\ChinarTestAce.cs" />
     <Compile Include="Assets\Chinar Demo\Scripts\Chinar.cs" />
     <Compile Include="Assets\Chinar Demo\Scripts\ChinarCreateXml.cs" />
     <Compile Include="Assets\Chinar Demo\Scripts\ChinarFecthAllXml.cs" />
     <Compile Include="Assets\Chinar Demo\Scripts\ChinarLoadXmlLinQ.cs" />
     <Compile Include="Assets\Chinar Demo\Scripts\ChinarXML.cs" />
     <Compile Include="Assets\Chinar Demo\Scripts\ChinarXmlXpath.cs" />
+    <Compile Include="Assets\Chinar Demo\Scripts\TestCompareT.cs" />
+    <None Include="Assets\StreamingAssets\Assemblies\A582.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\478.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\816.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\312B.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\30B.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\19.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\298.xml" />
     <None Include="Assets\Chinar Demo\Resources\Files\测试三.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\344.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\449.xml" />
     <None Include="Assets\Chinar Demo\Resources\Files\Serializefield.txt" />
+    <None Include="Assets\StreamingAssets\Assemblies\442.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\385.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\30A.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\53.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A648.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\486.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\672.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\547.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\444.xml" />
     <None Include="Assets\Chinar Demo\Resources\Files\TestXml.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A585.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\513.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A646.xml" />
     <None Include="Assets\Chinar Demo\Resources\Files\测试Xml2.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\228A.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\484.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A454.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\772B.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\645.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A527.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\511.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\386.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\399.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A580.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\644.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\546.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\589.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\63.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\387.xml" />
+    <None Include="Assets\StreamingAssets\Blocks\544.xml" />
+    <None Include="Assets\StreamingAssets\Assemblies\A578.xml" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/Unity Files/Tutorial--XML/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>I:/Unity Files/Git/Tutorial--XML/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity Files/Tutorial--XML/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>I:/Unity Files/Git/Tutorial--XML/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/Unity Files/Tutorial--XML/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>I:/Unity Files/Git/Tutorial--XML/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity Files/Tutorial--XML/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>I:/Unity Files/Git/Tutorial--XML/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Work/Unity8.2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -290,6 +360,9 @@
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/huabn/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>I:/Unity Files/Git/Tutorial--XML/Assets/Chinar Demo/Plugins/Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Work/Unity8.2/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
